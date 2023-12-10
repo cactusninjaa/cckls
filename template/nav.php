@@ -24,7 +24,7 @@
                      </a>
                   </li>
 
-                  <li class="nav__item">
+                  <!-- <li class="nav__item">
                      <a href="../pages/merch.php" class="nav__link">
                         <span>03</span> MERCH
                      </a>
@@ -34,7 +34,7 @@
                      <a href="../pages/cart.php" class="nav__link">
                         <span>04</span> CART
                      </a>
-                  </li>
+                  </li> -->
                </ul>
 
             <div class="nav__close" id="nav-close">
